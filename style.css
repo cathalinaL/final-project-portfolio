@@ -63,7 +63,7 @@ section {
 }
 #about {
    background: white;
-  border: 3px solid #ff69b4; /* pink border */
+  border: 3px solid #ff69b4; 
   border-radius: 15px;
   padding: 2rem 2.5rem;
   box-shadow: 0 5px 15px rgba(255, 105, 180, 0.3);
